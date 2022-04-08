@@ -1,3 +1,6 @@
+body{
+  position: relative;
+}
 .tit{
   text-align: center;
   color: aliceblue;
@@ -10,4 +13,11 @@
 .par{
   text-indent: 50px;
   color: blueviolet ;
+}
+.pic{
+ border-style:border-box;
+  block-size: 500px;
+  position: relative;
+  height: 250px;
+  border-radius: 200px;
 }
