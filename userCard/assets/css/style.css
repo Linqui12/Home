@@ -79,6 +79,7 @@
   line-height: 1.5em;
 }
 .user-footer {
+  display: block;
   background-color: var(--main-bg-color);
   padding: 15px;
 }
